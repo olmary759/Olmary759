@@ -1,9 +1,9 @@
 # Hi, I'm Adewuyi Mary 
 
 ## About Me
-I'm a data analyst focused on turning raw data into clear, actionable insights. I hold a degree in Chemistry from Ahmadu Bello University, and I've built on that analytical foundation with hands-on training in data analysis. I'm based in Lagos, Nigeria, and currently serving with NYSC.
+I'm a data analyst focused on turning raw data into clear, actionable insights. I hold a degree in Chemistry from Ahmadu Bello University, and I've built on that analytical foundation with hands on training in data analysis. I'm based in Lagos, Nigeria, and currently serving with NYSC.
 
-I'm actively growing this space as I build projects — check back often as I add new work!
+I'm actively growing this space as I build projects check often as I add new work!
 
 ## Tools & Skills
 - **Excel** — data entry, cleaning, pivot tables, reporting
